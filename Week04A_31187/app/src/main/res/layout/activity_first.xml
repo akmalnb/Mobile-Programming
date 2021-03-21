@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:layout_marginBottom="150dp"
+    tools:context=".FirstActivity">
+
+    <EditText
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@android:color/transparent"
+        android:hint="Akmal Nusa Bhakti-00000031187" />
+
+    <Button
+        android:id="@+id/main_button_change_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Halaman 1" />
+
+    <Button
+        android:id="@+id/main_button_change_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Halaman 2"/>
+</LinearLayout>
