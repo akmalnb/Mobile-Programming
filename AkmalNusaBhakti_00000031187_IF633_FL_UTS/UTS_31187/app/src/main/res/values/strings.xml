@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="titleProfile">Profile</string>
+    <string name="titleLogin">Login</string>
+    <string name="titleListMusic">MusicList</string>
+    <string name="titleReferences">References</string>
+</resources>
